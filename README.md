@@ -36,21 +36,7 @@ Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestã
 é melhorar a gestão do negócio, é muito importante que ele consiga ter
 relatórios, como por exemplo, de vendas.
 
-## 2- Empréstimo
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-## 3- Ordem de Serviço (O.S.)
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
+A nossa cliente, Ana Cristina, tem um restaurante chamado Chawarma na Chapa, e, devido ao grande número de produtos no mercado, fora encontrada a necessidade de um sistema para gerenciar os gastos com mercadorias. É de interesse do cliente que sejam emitidos relatórios de gastos, cadastros de mudanças de preços nos produtos, relatórios de estoque, relatórios de mudanças de preços de determinado produto em vários mercados, deve ser possível calcular o lucro desejado no produto com base nos gastos totais.
 
 # Situação Problema
 
