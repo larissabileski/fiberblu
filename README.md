@@ -43,34 +43,24 @@ de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema 
 
 Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
 sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços.
+empresa, como dos status dos serviços. -->
 
 # Situação Problema
 
--   **Introdução**: O sistema será desenvolvido para a empresa Fiberblu. Presente há 28 anos no mercado, é o maior comercio de tanques de fibra na região Sul do país. O dono Odair, o gerente comercial Ednilson, as secretárias,e os representantes da empresa, são os principais funcionários e os que terão acesso ao sistema.
+-   **Introdução**: O sistema será desenvolvido para a empresa Fiberblu. Presente há 28 anos no mercado, é o maior comercio de tanques de fibra na região Sul do país. O dono Odair, o gerente comercial Ednilson, a diretora financeira,e os representantes da empresa, são os principais funcionários e os que terão acesso ao sistema.
 -   **Situação-problema**: 
 <!-- Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação); -->
--   **Conclusão**: 
-  <!-- tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação ; analisada e aponte brevemente como um software poderia
+
+-   **Conclusão**: Notamos a falta de alguns recursos no atual software utilizado pela empresa, como por exemplo: Após o tempo estimado para o vencimento do boleto, o sistema não notifica o cliente que o boleto venceu. Outra dificuldade que percebemos foi que, o sistema não tem uma opção para fazer pedidos. O cliente faz o pedido por uma planilha, envia por e-mail, e os administradores do sistema precisam registrar o pedido.
+  <!-- tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação  analisada e aponte brevemente como um software poderia
     ajudar a resolvê-los. -->
 
 # Descrição da proposta
-
 <!-- Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
 desejado e permita sua continuidade. -->
 
 **Alguns pontos importantes a se destacar são:**
 
--   **Qual o foco de ação do software** :
-  <!-- relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails. -->
--   **Os níveis de usuário do sistema**:
-   <!-- Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc. -->
--   **O que poderá ser feito no software**: 
-  <!-- Apenas o principal, sem pensar em
-    telas ou detalhes específicos, pois isso será feito em outro momento. -->
-<!-- -   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre
-        eles na descrição da proposta. -->
-
-<!-- Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo. -->
+-   **Qual o foco de ação do software** : Acessar o relatório de vendas, controle de estoque, gerir ganhos e despesas, gerenciar cota de representantes, emissão de boletos após o faturamento dos pedidos e mensagens automáticas.
+-   **Os níveis de usuário do sistema**: O acesso ao sistema será restrito ao dono, ao gerente comercial, a diretora financeira e aos representantes da empresa.
+-   **O que poderá ser feito no software**: O software será utilizado para: acessar relatório e histórico de vendas, controle de estoque, gerir ganhos e despesas, gerenciar cota de representantes, emissão de boletos após o faturamento dos pedidos, mensagens automáticas após algumas ações( faturamento, emissões de boletos, vencimento de boletos ).
