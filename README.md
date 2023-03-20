@@ -27,37 +27,15 @@ Links do projeto:
 O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
 Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
 é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
-
-## 2- Empréstimo
-
-**Gerenciamento de uma biblioteca**
-
-Uma ONG, chamada Sala Arco Íris, ajuda crianças de baixa renda em sua educação básica. Atualmente, recebeu uma doação de mais de 1000 livros e está montando a sua biblioteca. Eles querem emprestar os livros para as crianças e os pais das crianças. Apesar de
-terem um computador e as estantes necessárias à disposição nessa nova biblioteca, não possuem verba suficiente para um leitor de impressão digital ou para produção
-de carteirinhas para todas as crianças. Para isso, eles precisam de um sistema que gerencie todo o acervo, empréstimos, livros disponíveis, etc. mas que isso ocorra de maneira simples e sem necessidade de novos gastos. Também é importante que haja relatórios, permitindo o controle dos empréstimos e dos livros disponíveis no acervo.
-
-## 3- Ordem de Serviço (O.S.)
-
-**Manutenção de computadores**
-
-Sr. Sálvio, nosso cliente, fez um curso de manutenção de celulares e smartphones e decidiu abrir um negócio, onde ele é responsável pelos consertos e sua esposa Marília realiza os atendimentos aos clientes. Com sua visão empreendedora, ele sentiu a necessidade de um software que auxilie
-sua esposa nas tarefas diárias. Para isso, ele deseja um sistema que gerencie os clientes, orçamentos, serviços e retirada dos equipamentos. Sendo um negócio pequeno, é muito importante que ele consiga ter relatórios que lhe ajudem na gestão da
-empresa, como dos status dos serviços. -->
+relatórios, como por exemplo, de vendas.-->
 
 # Situação Problema
 
 -   **Introdução**: O sistema será desenvolvido para a empresa Fiberblu. Presente há 28 anos no mercado, é o maior comercio de tanques de fibra na região Sul do país. O dono Odair, o gerente comercial Ednilson, a diretora financeira,e os representantes da empresa, são os principais funcionários e os que terão acesso ao sistema.
--   **Situação-problema**: 
-<!-- Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação); -->
-
+-   **Situação-problema**: Atualmente a empresa funciona da seguinte forma: é passado ao vendedor uma planilha para a realização do pedido após ser efetuado, é mandado para o email e depois cadastrado no sistema. O sistema realiza o relatório do pedido e avisa a equipe de estoque. No dia do carregamento o sistema fatura o pedido, desconta do estoque e é emitido o boleto. Atualmente,  no sistema utilizado não há como fazer o pedido direto no sistema, além disso, o sistema também não emite o boleto diretamente para o cliente, nem avisa se o boleto está vencendo ou se foi pago.
 -   **Conclusão**: Notamos a falta de alguns recursos no atual software utilizado pela empresa, como por exemplo: Após o tempo estimado para o vencimento do boleto, o sistema não notifica o cliente que o boleto venceu. Outra dificuldade que percebemos foi que, o sistema não tem uma opção para fazer pedidos. O cliente faz o pedido por uma planilha, envia por e-mail, e os administradores do sistema precisam registrar o pedido.
-  <!-- tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação  analisada e aponte brevemente como um software poderia
-    ajudar a resolvê-los. -->
 
 # Descrição da proposta
-<!-- Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do
-desejado e permita sua continuidade. -->
 
 **Alguns pontos importantes a se destacar são:**
 
