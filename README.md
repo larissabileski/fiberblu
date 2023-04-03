@@ -40,31 +40,20 @@ relatórios, como por exemplo, de vendas.-->
 **Alguns pontos importantes a se destacar são:**
 
 -   **Qual o foco de ação do software** : Acessar o relatório de vendas, controle de estoque, gerir ganhos e despesas, gerenciar cota de representantes, emissão de boletos após o faturamento dos pedidos e mensagens automáticas.
--   **Os níveis de usuário do sistema**: O acesso ao sistema será restrito ao dono, ao gerente comercial, ao diretor financeiro e aos representantes da empresa. O dono terá acesso a, o gerente comercial terá acesso a, o diretor fincanceiro terá acesso ao relatório e histórico de vendas, ao gerenciamento de ganhos e despesas e as emissões de boletos, e os representantes terão acesso ao estoque e aos pedidos efetuados no sistema.
+<!-- -   **Os níveis de usuário do sistema**: O acesso ao sistema será restrito ao dono, ao gerente comercial, ao diretor financeiro e aos representantes da empresa. O dono terá acesso a , o gerente comercial terá acesso a, o diretor fincanceiro terá acesso ao relatório e histórico de vendas, ao gerenciamento de ganhos e despesas e as emissões de boletos, e os representantes terão acesso ao estoque e aos pedidos efetuados no sistema. -->
 -   **O que poderá ser feito no software**: O software será utilizado para: acessar relatório e histórico de vendas, controle de estoque, gerir ganhos e despesas, gerenciar cota de representantes, emissão de boletos após o faturamento dos pedidos, mensagens automáticas após algumas ações( faturamento, emissões de boletos, vencimento de boletos ).
--   # Regras de negócio
 
-- **RN01** – Requisito do Cliente: Apenas pessoas jurídicas podem efetuar pedidos.
+# Regras de negócio
 
-<!-- **Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.**
+- **RN01** - Requisito do Cliente: Apenas pessoas jurídicas podem efetuar pedidos.
+- **RN02** - Envio do Pedido: O pedido só é/ enviado após o faturamento do pedido.
+- **RN03** - O produto é descontado do estoque apenas no dia do carregamento.
 
-As **Regras de negócio** são orientações e restrições que ajudam a regular as operações de uma empresa. **Regras** foram criadas para **colaborar com o funcionamento**, seja da sociedade, de uma escola, de um jogo, etc. Não seria diferente nas organizações. Vamos abordar melhor sobre esse assunto. Entender o que são as
-regras de negócio, sua importância, como são aplicadas e
-automatizadas na gestão por processo.
-
-## 4.1 O que são regras de negócio?
-
-Um negócio funciona por processos que, por sua vez, são formados por atividades relacionadas entre si.
-
+<!-- 
 As funções das áreas de compras, estoque, logística, finanças, vendas e marketing, por exemplo, compõem um processo de fornecimento de um produto ao cliente.
 
 Dentro desses processos, existem regras que devem ser seguidas durante a execução das atividades, que ajudam a definir **COMO** as operações devem ser realizadas e gerenciadas, **POR QUEM**, **QUANDO**, **ONDE** e **POR QUÊ**.
 
-Podemos dizer que as regras de negócio são **limites impostos às operações**, de forma que elas sigam corretamente em direção às políticas e aos objetivos da instituição.
-
-## 4.2 Regras para a criação de regras de negócio
-
-De maneira geral, as regras de negócio devem:
 - Ser **simples**, isto é,  ter apenas uma função.
 - Ser **completas**, com início, meio e fim.
 - Ser possíveis de **mensurar** e **rastrear**.
@@ -72,12 +61,6 @@ De maneira geral, as regras de negócio devem:
 - Estar **atualizadas** e sempre **revisadas**.
 - Refletir a **política** e os **valores** da organização.
 - Ser **inteligíveis** para os colaboradores e envolvidos no processo.
-
-## 4.3 Por que ter regras de negócio?
-
-- **Padronização de processos:** padronizam os processos e auxiliam a fluirem de forma mais eficiente e automatizada.
-- **Controle de processos:** auxiliam no controle de processos, pois falhas são identificadas e corrigidas mais rapidamente.
-- **Tomada de decisão:** auxiliam na tomada de decisão e no cumprimento de estratégias pré-estabelecidas.
 
 ## 4.4 Exemplos de regras de negócio
 
