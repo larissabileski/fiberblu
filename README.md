@@ -37,7 +37,7 @@ Links do projeto:
 - **RN01 - Requisito do Cliente**: Apenas pessoas jurídicas podem efetuar pedidos.
 - **RN02 – Inserir Produtos no Pedido**: Para inserir um produto na pedido, é necessário que o produto esteja cadastrado no sistema e que a quantia comprada seja acima de zero.
 - **RN03 - Valor Minimo do Pedido**: Só serão efetuados pedidos acima de R$1000,00.
-- **RN04 - Cadastro do Pedido**: Para o pedido ser cadastrado no sistema, ele deve ser realizado por um representante da empresa.
+- **RN04 - Cadastro do Pedido**: Para o pedido ser cadastrado no sistema, ele deve ser realizado por um representante da empresa ou pelo gerente comercial.
 - **RN05 - Controle do Estoque**: O produto é descontado do estoque apenas no dia do carregamento.
 - **RN06 - Envio do Pedido**: O pedido só é enviado após o faturamento do pedido.
 - **RN07 - Relatório de Vendas**: Só terão acesso ao relatório de vendas os administradores (dono, gerente comercial e diretor financeiro).
