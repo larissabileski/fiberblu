@@ -51,37 +51,28 @@ Links do projeto:
 - **Registro de Produto**: No cadastro do produto deverá ser informado o código do produto, sua cor, material, tamanho e valor.
   
 **Processos:**
-- **Autenticação de usuário**: Dados necessários para autenticação: login, senha e função
+- **Autenticação de usuário**: O usuário deve ter o acesso ao sistema autenticado, para verificação das telas disponiveis para acesso conforme sua função.
+  - **Dados necessários:** login, senha, nível de permissão. 
+  - **Usuários:** todos os níveis de usuário.
 - **Registro de pedido**: O pedido deve ser cadastrados identificando o nome da empresa, produtos pedidos, valor do pedido e vendedor que efetuou o pedido.
   
 **Saidas:**
-- Relatório de vendas
-- “Log de usuários autenticados
+- Relatório e histórico de vendas
+- Log de usuários autenticados
   
-<!-- 
-- **R.F. 01 - Autenticação de usuário:** tem como propósito autenticar o acesso ao sistema, verificando se o usuário pode acessá-lo e, caso possa, o direcionando
-para a página principal de seu perfil de acesso. 
-  - **Dados necessários:** login, senha, nível de permissão. 
-  - **Usuários:** todos os níveis de usuário.-->
-
+  
 # 6. Requisitos não funcionais
 
-1. **Segurança**: O sistema deve ser protegido contra acesso não
-autorizado.
-2. **Atuação**: O sistema deve ser capaz de lidar com o número necessário
-de usuários sem qualquer degradação no desempenho.
-3. **Escalabilidade**: O sistema deve ser capaz de aumentar ou diminuir
-conforme necessário.
+1. **Segurança**: O sistema deve ser protegido contra acesso não autorizado.
+2. **Atuação**: O sistema deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.
+3. **Escalabilidade**: O sistema deve ser capaz de aumentar ou diminuir conforme necessário.
 4. **Disponibilidade**: O sistema deve estar disponível quando necessário.
 5. **Manutenção**: O sistema deve ser fácil de manter e atualizar.
-6. **Portabilidade**: O sistema deve ser capaz de rodar em diferentes
-plataformas com alterações mínimas.
-7. **Confiabilidade**: O sistema deve ser confiável e atender aos requisitos
-do usuário.
+6. **Portabilidade**: O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas.
+7. **Confiabilidade**: O sistema deve ser confiável e atender aos requisitos do usuário.
 8. **Usabilidade**: O sistema deve ser fácil de usar e entender.
 9. **Compatibilidade**: O sistema deve ser compatível com outros sistemas.
-10. **Conformidade**: O sistema deve cumprir todas as leis e regulamentos
-aplicáveis.
+10. **Conformidade**: O sistema deve cumprir todas as leis e regulamentos aplicáveis.
 
 <!-- 
 1. **Atributos de qualidade:** Estas são as características do sistema que determinam sua qualidade geral. Exemplos de atributos de qualidade incluem segurança, desempenho e usabilidade.
