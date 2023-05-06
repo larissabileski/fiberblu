@@ -10,13 +10,14 @@ Desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de
 
 Alunos: [Larissa Cristina Bileski](github.com/larissabileski) e [Vinicius Henrique da Silva](github.com/viniihds). 
 
-Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](https://github.com/AlannKPerini).
+Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](github.com/AlannKPerini).
 
 Links do projeto:
 
--   [Documentação (esse documento)]()
+-   [Documentação](github.com/larissabileski/pi-larissaevinicius.git)
 -   [Backend]()
 -   [Frontend]()
+-   [Mobile](github.com/larissabileski/mobile-telas.git)
 
 # Situação Problema
 
