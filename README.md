@@ -38,11 +38,12 @@ Links do projeto:
 - **RN02 – Inserir Produtos no Pedido**: Para inserir um produto na pedido, é necessário que o produto esteja cadastrado no sistema e que a quantia comprada seja acima de zero.
 - **RN03 - Valor Minimo do Pedido**: Só serão efetuados pedidos acima de R$1000,00.
 - **RN04 - Cadastro do Pedido**: Para o pedido ser cadastrado no sistema, ele deve ser realizado por um representante da empresa ou pelo gerente comercial.
-- **RN05 - Controle do Estoque**: O produto é descontado do estoque apenas no dia do carregamento.
-- **RN06 - Envio do Pedido**: O pedido só é enviado após o faturamento do pedido.
-- **RN07 - Relatório de Vendas**: Só terão acesso ao relatório de vendas os administradores (dono, gerente comercial e diretor financeiro).
-- **RN08 - Cota para Representantes**: A cota para novos representantes é de 50 peças por mês.
-- **RN09 - Cota para Representantes**: Para representantes antigos a cota é de 15% a mais do que o vendido no mesmo mês do ano anterior.
+- **RN05 - Produto em Estoque**: Para o pedido ser efetuado, a quantidade de produtos selecionados pelo cliente deve estar em estoque. 
+- **RN06 - Controle do Estoque**: O produto é descontado do estoque apenas no dia do carregamento.
+- **RN07 - Envio do Pedido**: O pedido só é enviado após o faturamento do pedido.
+- **RN08 - Relatório de Vendas**: Só terão acesso ao relatório de vendas os administradores (dono, gerente comercial e diretor financeiro).
+- **RN09 - Cota para Representantes**: A cota para novos representantes é de 50 peças por mês.
+- **RN010 - Cota para Representantes**: Para representantes antigos a cota é de 15% a mais do que o vendido no mesmo mês do ano anterior.
 
 # Requisitos funcionais
 
