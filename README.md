@@ -48,14 +48,20 @@ Links do projeto:
 # Requisitos funcionais
 
 **Entradas:**
-- **Registro de usuário**: O usuário deve ser cadastrado pela sua função, para ter acesso a determinadas telas.
-- **Registro de Produto**: No cadastro do produto deverá ser informado o código do produto, sua cor, material, tamanho e valor.
+- **RF01 - Registro de Usuário**: O usuário deve ser cadastrado pela sua função, para ter acesso a determinadas telas.
+  - **Dados necessários:** nome, email, telefone, login, senha e nível de permissão. 
+  - **Usuários:** todos os níveis de usuário.
+- **RF02 - Registro de Produto**: No cadastro do produto deverá ser informado o código do produto, sua cor, material, tamanho e valor.
+  - **Dados necessários:** código do produto, cor, material, tamanho e valor.
+  - **Usuários:** gerente comercial.
   
 **Processos:**
-- **Autenticação de usuário**: O usuário deve ter o acesso ao sistema autenticado, para verificação das telas disponiveis para acesso conforme sua função.
-  - **Dados necessários:** login, senha, nível de permissão. 
+- **RF03 - Autenticação de Usuário**: O usuário deve ter o acesso ao sistema autenticado, para verificação das telas disponiveis para acesso conforme sua função.
+  - **Dados necessários:** login, senha e nível de permissão. 
   - **Usuários:** todos os níveis de usuário.
-- **Registro de pedido**: O pedido deve ser cadastrados identificando o nome da empresa, produtos pedidos, valor do pedido e vendedor que efetuou o pedido.
+- **RF04 - Registro de Pedido**: O pedido deve ser cadastrado identificando o nome da empresa, produtos selecionados, valor do pedido e vendedor que efetuou o pedido.
+  - **Dados necessários:** nome da empresa, produtos selecionados, valor do pedido e vendedor que efetuou o pedido.
+  - **Usuários:** representantes da empresa.
   
 **Saidas:**
 - Relatório e histórico de vendas
