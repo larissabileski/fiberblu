@@ -70,16 +70,16 @@ Links do projeto:
   
 # 6. Requisitos não funcionais
 
-1. **Segurança**: O sistema deve ser protegido contra acesso não autorizado.
-2. **Atuação**: O sistema deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.
-3. **Escalabilidade**: O sistema deve ser capaz de aumentar ou diminuir conforme necessário.
-4. **Disponibilidade**: O sistema deve estar disponível quando necessário.
-5. **Manutenção**: O sistema deve ser fácil de manter e atualizar.
-6. **Portabilidade**: O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas.
-7. **Confiabilidade**: O sistema deve ser confiável e atender aos requisitos do usuário.
-8. **Usabilidade**: O sistema deve ser fácil de usar e entender.
-9. **Compatibilidade**: O sistema deve ser compatível com outros sistemas.
-10. **Conformidade**: O sistema deve cumprir todas as leis e regulamentos aplicáveis.
+- **RNF01 - Segurança**: O sistema deve ser protegido contra acesso não autorizado.
+- **RNF02 - Atuação**: O sistema deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.
+- **RNF03 - Escalabilidade**: O sistema deve ser capaz de aumentar ou diminuir conforme necessário.
+- **RNF04 - Disponibilidade**: O sistema deve estar disponível quando necessário.
+- **RNF05 - Manutenção**: O sistema deve ser fácil de manter e atualizar.
+- **RNF06 - Portabilidade**: O sistema deve ser capaz de rodar em diferentes plataformas com alterações mínimas.
+- **RNF07 - Confiabilidade**: O sistema deve ser confiável e atender aos requisitos do usuário.
+- **RNF08 - Usabilidade**: O sistema deve ser fácil de usar e entender.
+- **RNF09 - Compatibilidade**: O sistema deve ser compatível com outros sistemas.
+- **RNF010 - Conformidade**: O sistema deve cumprir todas as leis e regulamentos aplicáveis.
 
 <!-- 
 1. **Atributos de qualidade:** Estas são as características do sistema que determinam sua qualidade geral. Exemplos de atributos de qualidade incluem segurança, desempenho e usabilidade.
