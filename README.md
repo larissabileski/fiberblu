@@ -34,14 +34,14 @@ Links do projeto:
 -   **O que poderá ser feito no software**: O software será utilizado para: acessar relatório e histórico de vendas, cadastro de novos pedidos, controle de estoque, gerir ganhos e despesas, gerenciar cota de representantes, emissão de boletos após o faturamento dos pedidos, mensagens automáticas após algumas ações( faturamento, emissões de boletos, vencimento de boletos ).
 
 # Regras de negócio
+
 - **RN01 - Requisito do Cliente**: Apenas pessoas jurídicas podem efetuar pedidos.
 - **RN02 – Inserir Produtos no Pedido**: Para inserir um produto na pedido, é necessário que o produto esteja cadastrado no sistema e que a quantia comprada seja acima de zero.
 - **RN03 - Valor Minimo do Pedido**: Só serão efetuados pedidos acima de R$1000,00.
-- **RN04 - Cadastro do Pedido**: Para o pedido ser cadastrado no sistema, ele deve ser realizado por um representante da empresa ou pelo gerente comercial.
-- **RN05 - Produto em Estoque**: Para o pedido ser efetuado, a quantidade de produtos selecionados pelo cliente deve estar em estoque. 
+- **RN04 - Cadastro do Pedido**: Para o pedido ser cadastrado no sistema, ele deve ser realizado por um representante da empresa ou pelo gerente comercial. 
 - **RN06 - Controle do Estoque**: O produto é descontado do estoque apenas no dia do carregamento.
 - **RN07 - Envio do Pedido**: O pedido só é enviado após o faturamento do pedido.
-- **RN08 - Relatório de Vendas**: Só terão acesso ao relatório de vendas os administradores (dono, gerente comercial e diretor financeiro).
+- **RN08 - Relatório de Vendas**: Só terão acesso ao relatório de vendas o dono, o gerente comercial e o diretor financeiro.
 - **RN09 - Cota para Representantes**: A cota para novos representantes é de 50 peças por mês.
 - **RN010 - Cota para Representantes**: Para representantes antigos a cota é de 15% a mais do que o vendido no mesmo mês do ano anterior.
 
@@ -62,9 +62,12 @@ Links do projeto:
 - **RF04 - Registro de Pedido**: O pedido deve ser cadastrado identificando o nome da empresa, produtos selecionados, valor do pedido e vendedor que efetuou o pedido.
   - **Dados necessários:** nome da empresa, produtos selecionados, valor do pedido e vendedor que efetuou o pedido.
   - **Usuários:** representantes da empresa.
+- **RF05 - Produto em Estoque**: Para o pedido ser efetuado, a quantidade de produtos selecionados pelo cliente deve estar em estoque. 
+  - **Dados necessários:** código do produto e quantidade do produto.
+  - **Usuários:** gerente comercial e representantes da empresa.
   
 **Saidas:**
-- **RF05 - Relatório e histórico de vendas**: Após cada pedido efetuado, o sistema deve fazer um relatório da venda, e inclui-la no histórico de vendas.
+- **RF06 - Relatório e histórico de vendas**: Após cada pedido efetuado, o sistema deve fazer um relatório da venda, e inclui-la no histórico de vendas.
   - **Dados necessários:** código do pedido, valor do pedido, horário que o pedido foi enviado para a entrega, cliente e vendedor que efetuou o pedido.
   - **Usuários:** gerente comercial.
 
@@ -80,10 +83,10 @@ Links do projeto:
 - **RNF08 - Usabilidade**: O sistema deve ser fácil de usar e entender.
 - **RNF09 - Compatibilidade**: O sistema deve ser compatível com outros sistemas.
 - **RNF10 - Conformidade**: O sistema deve cumprir todas as leis e regulamentos aplicáveis.
-- **RNF11 - Navegadores homologados:**: Navegadores homologados: o sistema deverá ser homologado para os navegadores Google Chrome e Mozilla Firefox. 
+- **RNF11 - Navegadores homologados**: Navegadores homologados: o sistema deverá ser homologado para os navegadores Google Chrome e Mozilla Firefox. 
 - **RNF012 - Tecnologia Front-end**: Para a exibição em front-end, o software utilizará o CSS3 e o HTML5, além das bibliotecas de Vue.js e React Native para mobile.
-- **RNF13 - Tecnologia Back-end:** O software será desenvolvido pela linguagem de programação Python e biblioteca Django.
-- **RNF14 - Forma de uso do software:** O sistema por fazer parte de um ambiente interno, provavelmente será utilizado de acordo com as horas de trabalho da empresa, mas estará ativo 24 horas por dia em 7 dias por semana.
-- **RNF15 - Desempenho:** Para a utilização correta e com uma qualidade e eficiência melhor, é recomendado que se use o Sistema OperacionalRe mais atualizado.
-- **RNF16 - Autenticação:** Para realizar o acesso ao sistema é necessário ter um usuário de autenticação criado pelo administrador, além da possibilidade de solicitar um envio de redefinição de senha.
-- **RNF17 - Legais:** O sistema deve atender às exigências da LGPD (Leis Gerais da Proteção de Dados).
+- **RNF13 - Tecnologia Back-end**: O software será desenvolvido pela linguagem de programação Python e biblioteca Django.
+- **RNF14 - Forma de uso do software**: O sistema por fazer parte de um ambiente interno, provavelmente será utilizado de acordo com as horas de trabalho da empresa, mas estará ativo 24 horas por dia em 7 dias por semana.
+- **RNF15 - Desempenho**: Para a utilização correta e com uma qualidade e eficiência melhor, é recomendado que se use o Sistema OperacionalRe mais atualizado.
+- **RNF16 - Autenticação**: Para realizar o acesso ao sistema é necessário ter um usuário de autenticação criado pelo administrador, além da possibilidade de solicitar um envio de redefinição de senha.
+- **RNF17 - Legais**: O sistema deve atender às exigências da LGPD (Leis Gerais da Proteção de Dados).
