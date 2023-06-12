@@ -29,15 +29,11 @@ Notamos a falta de alguns recursos no atual software utilizado pela empresa, com
 
 # Descrição da proposta
 
-**COLOCAR UMA INTRODUÇÃO AQUI...**
+No sistema desenvolvido, será possível: acessar o relatório de vendas, cadastrar novas vendas, controlar o estoque, gerenciar ganhos e despesas, cota de representantes, emitir boletos após o faturamento dos pedidos e enviar mensagens automáticas.
 
-**Qual o foco de ação do software**: 
+O acesso ao sistema será restrito ao dono, ao gerente comercial, ao diretor financeiro e aos representantes da empresa.
 
-Acessar o relatório de vendas, cadastrar novas vendas, controlar o estoque, gerenciar ganhos e despesas, cota de representantes, emitir boletos após o faturamento dos pedidos e enviar mensagens automáticas.
-
-**Os níveis de usuário do sistema**: 
-
-O acesso ao sistema será restrito ao dono, ao gerente comercial, ao diretor financeiro e aos representantes da empresa. O dono terá acesso a todas as ações do software como administrador. 
+O dono terá acesso a todas as ações do software. 
 
 O gerente comercial terá acesso ao relatório e histórico de vendas, ao cadastro de novas vendas, ao controle de estoque e ao controle de ganhos e despesa. 
 
