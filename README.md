@@ -17,7 +17,7 @@ Links do projeto:
 -   [Documentação](github.com/larissabileski/pi-larissaevinicius.git)
 -   [Backend]()
 -   [Frontend]()
--   [Mobile](github.com/larissabileski/mobile-telas.git)
+-   [Mobile](https://github.com/larissabileski/mobile-fiberblu)
 
 # Situação Problema
 
