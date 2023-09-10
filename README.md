@@ -15,8 +15,8 @@ Professores: [Marco André Mendes](github.com/marcoandre) e [Alann Perini](githu
 Links do projeto:
 
 -   [Documentação](github.com/larissabileski/pi-larissaevinicius.git)
--   [Backend]()
--   [Frontend]()
+-   [Backend](https://github.com/viniihds/backend-fiberblu)
+-   [Web](https://github.com/viniihds/web-fiberblu.git)
 -   [Mobile](https://github.com/larissabileski/mobile-fiberblu)
 
 # Situação Problema
