@@ -99,3 +99,38 @@ Por fim, os representantes terão acesso ao estoque, ao cadastro de novas vendas
 - **RNF15 - Desempenho**: Para a utilização correta e com uma qualidade e eficiência melhor, é recomendado que se use o Sistema Operacional mais atualizado.
 - **RNF16 - Autenticação**: Para realizar o acesso ao sistema é necessário ter um usuário de autenticação criado pelo administrador, além da possibilidade de solicitar um envio de redefinição de senha.
 - **RNF17 - Legais**: O sistema deve atender às exigências da LGPD (Lei Geral da Proteção de Dados).
+
+# 7. Figma
+
+**Figma - Login**
+
+![Figma Login](figma/login.png "Figma Login")
+
+**Figma - Home**
+
+![Figma Home](figma/home.png "Figma Home")
+
+**Figma - Cadastro de Produtos**
+
+![Figma CadProdutos](figma/cadprodutos.png "Figma CadProdutos")
+
+**Figma - Cadastro de Clientes**
+
+![Figma CadClientes](figma/cadclientes.png "Figma CadClientes")
+
+**Figma - Clientes**
+
+![Figma Clientes](figma/clientes.png "Figma Clientes")
+
+**Figma - Estoque**
+
+![Figma Produtos](figma/produtos.png "Figma Produtos")
+
+**Figma - Pedidos**
+
+![Figma Pedidos](figma/pedidos.png "Figma Pedidos")
+
+
+**Figma - Financeiro**
+
+![Figma Financeiro](figma/financeiro.png "Figma Financeiro")
